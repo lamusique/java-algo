@@ -125,7 +125,7 @@ p.413 ISBNコード
 ## 著者・編集者への連絡方法
 
 
-![maito](https://oku.edu.mie-u.ac.jp/~okumura/java-algo/to.gif}
+![maito](https://oku.edu.mie-u.ac.jp/~okumura/java-algo/to.gif)
 
 
 お気づきのことがありましたら右のアドレスまでメールでご連絡いただければ幸いです（ジャンクメール屋にアドレスを自動収集されないように画像にしています）：
